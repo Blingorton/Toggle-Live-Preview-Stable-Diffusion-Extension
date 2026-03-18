@@ -1,0 +1,1 @@
+This simply puts a green (on) or red (off) button to toggle on or off the live preview function on the txt2img tab, just below where previews/images are shown, right next to the "open images output directory" button. Its meant to give you all the functionality of live previews, but also the cumulative savings of turning them off for overnight generation.
